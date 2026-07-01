@@ -223,7 +223,7 @@ After completing this notebook, you will understand:
 ## Original Image
 
 
-![Original Image](images/defender.png)
+![Original Image](images/defender.webp)
 
 ---
 
