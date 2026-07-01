@@ -223,12 +223,11 @@ After completing this notebook, you will understand:
 ## Original Image
 
 
-images/defender.webp
+(images/defender.webp)
 
 ---
 
 ## Augmented Images
-
 
 ```
 preview/
